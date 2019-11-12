@@ -4,9 +4,7 @@ library(dplyr)
 library(rlist)
 library(blastula) 
 
-setwd("~/Github/pl-tipping")
-
-api_key <- source("/home/emh/Github/pl-tipping/api-key.R")[[1]]
+api_key <- source("api-key.R")[[1]]
 
 # Read previous scores
 scores_prev <- read.csv2("scores.csv", stringsAsFactors = FALSE)
