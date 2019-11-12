@@ -73,7 +73,6 @@ if (nrow(scores_diff) > 0) {
       to = "emh@osloeconomics.no",
       from = "eivindhammers@gmail.com",
       subject = "Oppdatering av Premier League-resultater",
-      credentials = creds_file("gmail_creds"),
-      binary_loc = "/usr/local/bin/mailsend-go"
+      credentials = creds_file("gmail_creds")
     )
 }
