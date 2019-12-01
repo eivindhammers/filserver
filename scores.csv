@@ -129,3 +129,9 @@
 "Man City";"Chelsea";13;"2019-11-23T17:30:00Z";2;1
 "Sheffield Utd";"Man United";13;"2019-11-24T16:30:00Z";3;3
 "Aston Villa";"Newcastle";13;"2019-11-25T20:00:00Z";2;0
+"Newcastle";"Man City";14;"2019-11-30T12:30:00Z";2;2
+"Liverpool";"Brighton";14;"2019-11-30T15:00:00Z";2;1
+"Chelsea";"West Ham";14;"2019-11-30T15:00:00Z";0;1
+"Tottenham";"Bournemouth";14;"2019-11-30T15:00:00Z";3;2
+"Burnley";"Crystal Palace";14;"2019-11-30T15:00:00Z";0;2
+"Southampton";"Watford";14;"2019-11-30T17:30:00Z";2;1
