@@ -52,6 +52,7 @@ if (nrow(scores_diff) > 0) {
   
   # Generate the body text for the email message
   email_text <- 
+  glue::glue(
   "
   Hei,
   
@@ -61,11 +62,12 @@ if (nrow(scores_diff) > 0) {
   
   Mvh PL-roboten
   "
+  )
   
   email_object <-
     compose_email(
       body = email_text,
-      footer = "Email sent on {current_date_time}."
+      footer = glue::glue("Email sent on {current_date_time}.")
     )
   
   email_object %>%
