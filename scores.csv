@@ -209,3 +209,10 @@
 "Arsenal";"Man United";21;"2020-01-01T20:00:00Z";2;0
 "Liverpool";"Sheffield Utd";21;"2020-01-02T20:00:00Z";2;0
 "Sheffield Utd";"West Ham";22;"2020-01-10T20:00:00Z";1;0
+"Crystal Palace";"Arsenal";22;"2020-01-11T12:30:00Z";1;1
+"Wolves";"Newcastle";22;"2020-01-11T15:00:00Z";1;1
+"Chelsea";"Burnley";22;"2020-01-11T15:00:00Z";3;0
+"Everton";"Brighton";22;"2020-01-11T15:00:00Z";1;0
+"Man United";"Norwich";22;"2020-01-11T15:00:00Z";4;0
+"Leicester";"Southampton";22;"2020-01-11T15:00:00Z";1;2
+"Tottenham";"Liverpool";22;"2020-01-11T17:30:00Z";0;1
