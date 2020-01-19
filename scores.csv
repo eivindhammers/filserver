@@ -218,3 +218,11 @@
 "Tottenham";"Liverpool";22;"2020-01-11T17:30:00Z";0;1
 "Bournemouth";"Watford";22;"2020-01-12T14:00:00Z";0;3
 "Aston Villa";"Man City";22;"2020-01-12T16:30:00Z";1;6
+"Watford";"Tottenham";23;"2020-01-18T12:30:00Z";0;0
+"Man City";"Crystal Palace";23;"2020-01-18T15:00:00Z";2;2
+"Arsenal";"Sheffield Utd";23;"2020-01-18T15:00:00Z";1;1
+"Norwich";"Bournemouth";23;"2020-01-18T15:00:00Z";1;0
+"West Ham";"Everton";23;"2020-01-18T15:00:00Z";1;1
+"Southampton";"Wolves";23;"2020-01-18T15:00:00Z";2;3
+"Brighton";"Aston Villa";23;"2020-01-18T15:00:00Z";1;1
+"Newcastle";"Chelsea";23;"2020-01-18T17:30:00Z";1;0
