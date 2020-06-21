@@ -269,3 +269,32 @@
 "Man United";"Watford";27;"2020-02-23T14:00:00Z";3;0
 "Arsenal";"Everton";27;"2020-02-23T16:30:00Z";3;2
 "Liverpool";"West Ham";27;"2020-02-24T20:00:00Z";3;2
+"Norwich";"Leicester";28;"2020-02-28T20:00:00Z";1;0
+"Brighton";"Crystal Palace";28;"2020-02-29T12:30:00Z";0;1
+"Newcastle";"Burnley";28;"2020-02-29T15:00:00Z";0;0
+"West Ham";"Southampton";28;"2020-02-29T15:00:00Z";3;1
+"Bournemouth";"Chelsea";28;"2020-02-29T15:00:00Z";2;2
+"Watford";"Liverpool";28;"2020-02-29T17:30:00Z";3;0
+"Tottenham";"Wolves";28;"2020-03-01T14:00:00Z";2;3
+"Everton";"Man United";28;"2020-03-01T14:00:00Z";1;1
+"Liverpool";"Bournemouth";29;"2020-03-07T12:30:00Z";2;1
+"Wolves";"Brighton";29;"2020-03-07T15:00:00Z";0;0
+"Arsenal";"West Ham";29;"2020-03-07T15:00:00Z";1;0
+"Sheffield Utd";"Norwich";29;"2020-03-07T15:00:00Z";1;0
+"Southampton";"Newcastle";29;"2020-03-07T15:00:00Z";0;1
+"Crystal Palace";"Watford";29;"2020-03-07T15:00:00Z";1;0
+"Burnley";"Tottenham";29;"2020-03-07T17:30:00Z";1;1
+"Chelsea";"Everton";29;"2020-03-08T14:00:00Z";4;0
+"Man United";"Man City";29;"2020-03-08T16:30:00Z";2;0
+"Leicester";"Aston Villa";29;"2020-03-09T20:00:00Z";4;0
+"Aston Villa";"Sheffield Utd";28;"2020-06-17T17:00:00Z";0;0
+"Man City";"Arsenal";28;"2020-06-17T19:15:00Z";3;0
+"Norwich";"Southampton";30;"2020-06-19T17:00:00Z";0;3
+"Tottenham";"Man United";30;"2020-06-19T19:15:00Z";1;1
+"Watford";"Leicester";30;"2020-06-20T11:30:00Z";1;1
+"Brighton";"Arsenal";30;"2020-06-20T14:00:00Z";2;1
+"West Ham";"Wolves";30;"2020-06-20T16:30:00Z";0;2
+"Bournemouth";"Crystal Palace";30;"2020-06-20T18:45:00Z";0;2
+"Newcastle";"Sheffield Utd";30;"2020-06-21T13:00:00Z";3;0
+"Aston Villa";"Chelsea";30;"2020-06-21T15:15:00Z";1;2
+"Everton";"Liverpool";30;"2020-06-21T18:00:00Z";0;0
