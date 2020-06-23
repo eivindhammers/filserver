@@ -1,6 +1,9 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
+
+git pull
+
 Rscript get_scores.R
 
 git add scores.csv
