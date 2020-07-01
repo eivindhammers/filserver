@@ -1,10 +1,10 @@
 library(jsonlite)
 library(httr)
-library(dplyr)
 library(rlist)
 library(blastula) 
 library(glue)
 library(plyr)
+library(dplyr)
 
 api_key <- source("api-key.R")[[1]]
 
