@@ -3,6 +3,8 @@ library(httr)
 library(dplyr)
 library(rlist)
 library(blastula) 
+library(glue)
+library(plyr)
 
 api_key <- source("api-key.R")[[1]]
 
@@ -30,8 +32,8 @@ newnames <- c("Bournemouth", "Arsenal", "Aston Villa", "Brighton", "Burnley",
               "Southampton", "Tottenham", "Watford", "West Ham", "Wolves")
 
 matches_df <- matches_df %>%
-  mutate(team = plyr::mapvalues(team, oldnames, newnames),
-         opponents = plyr::mapvalues(opponents, oldnames, newnames),
+  mutate(team = mapvalues(team, oldnames, newnames),
+         opponents = mapvalues(opponents, oldnames, newnames),
          round = as.integer(round),
          team_h_score = as.integer(team_h_score),
          team_a_score = as.integer(team_a_score))
@@ -46,13 +48,13 @@ if (nrow(scores_diff) > 0) {
   results_txt <- scores_diff %>%
     mutate(result_string = paste0(team, "  ", team_h_score, " - ", team_a_score, "  ", opponents)) %>%
     pull(result_string) %>%
-    paste(collapse = md("<br>"))
+    paste(collapse = "\n")
   
   current_date_time <- add_readable_time(use_tz = TRUE)
   
   # Generate the body text for the email message
   email_text <- 
-  glue::glue(
+  glue(
   "
   Hei,
   
@@ -66,8 +68,8 @@ if (nrow(scores_diff) > 0) {
   
   email_object <-
     compose_email(
-      body = email_text,
-      footer = glue::glue("Email sent on {current_date_time}.")
+      body = md(email_text),
+      footer = glue("Email sent on {current_date_time}.")
     )
   
   email_object %>%
