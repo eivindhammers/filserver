@@ -48,7 +48,7 @@ if (nrow(scores_diff) > 0) {
   results_txt <- scores_diff %>%
     mutate(result_string = paste0(team, "  ", team_h_score, " - ", team_a_score, "  ", opponents)) %>%
     pull(result_string) %>%
-    paste(collapse = "\")
+    paste(collapse = "<br>")
   
   current_date_time <- add_readable_time(use_tz = TRUE)
   
