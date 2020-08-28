@@ -1,46 +1,35 @@
-library(jsonlite)
-library(httr)
-library(rlist)
 library(blastula) 
 library(glue)
 library(plyr)
 library(dplyr)
+library(fplscrapR)
 
 api_key <- source("api-key.R")[[1]]
 
 # Read previous scores
 scores_prev <- read.csv2("scores.csv", stringsAsFactors = FALSE)
 
-matches <- GET("http://api.football-data.org/v2/competitions/PL/matches", 
-            add_headers("X-Auth-Token" = api_key)) %>%
-  content
+matches <- get_game_list() %>%
+  #filter(finished == TRUE) %>%
+  select(team = home, opponents = away, round = GW, kickoff_time = kickoff, team_h_score, team_a_score)
 
-matches_fin <- list.filter(matches$matches, status == "FINISHED") %>%
-  list.select(homeTeam, awayTeam, matchday, utcDate, score)
+oldnames <- unique(sort(c(as.character(unique(matches$team)),
+                          as.character(unique(matches$opponents)))))
+newnames <- c("Arsenal", "Aston Villa", "Brighton", "Burnley",
+              "Chelsea", "Crystal Palace", "Everton", "Fulham", "Leeds", "Leicester", "Liverpool", 
+              "Man City", "Man United", "Newcastle", "Sheffield Utd",
+              "Southampton", "Tottenham", "West Bromwich", "West Ham", "Wolves")
 
-matches_df <- data.frame(matrix(unlist(matches_fin), 
-                                nrow = length(matches_fin), 
-                                byrow = TRUE), stringsAsFactors = FALSE) %>%
-  select(-X1, -X3, -X7, -X8, -X11, -X12) %>%
-  setNames(c("team", "opponents", "round", "kickoff_time", "team_h_score", "team_a_score")) 
-
-oldnames <- unique(sort(c(as.character(unique(matches_df$team)),
-                          as.character(unique(matches_df$opponents)))))
-newnames <- c("Bournemouth", "Arsenal", "Aston Villa", "Brighton", "Burnley",
-              "Chelsea", "Crystal Palace", "Everton", "Leicester", "Liverpool", 
-              "Man City", "Man United", "Newcastle", "Norwich", "Sheffield Utd",
-              "Southampton", "Tottenham", "Watford", "West Ham", "Wolves")
-
-matches_df <- matches_df %>%
+matches <- matches %>%
   mutate(team = mapvalues(team, oldnames, newnames),
          opponents = mapvalues(opponents, oldnames, newnames),
          round = as.integer(round),
          team_h_score = as.integer(team_h_score),
          team_a_score = as.integer(team_a_score))
 
-write.csv2(matches_df, "scores.csv", row.names = FALSE)
+write.csv2(matches, "scores_20-21.csv", row.names = FALSE)
 
-scores_diff <- anti_join(matches_df, scores_prev) 
+scores_diff <- anti_join(matches, scores_prev) 
 
 # source("create_creds.R")
 
