@@ -29,7 +29,7 @@ matches <- matches %>%
 
 write.csv2(matches, "scores_20-21.csv", row.names = FALSE)
 
-scores_diff <- anti_join(matches, scores_prev) 
+scores_diff <- anti_join(matches, scores_prev)
 
 # source("create_creds.R")
 
