@@ -11,9 +11,9 @@ matches <- get_game_list() %>%
   #filter(finished == TRUE) %>%
   select(team = home, opponents = away, round = GW, kickoff_time = kickoff, team_h_score, team_a_score) %>%
   mutate(round = ifelse((team == "BUR" & opponents == "MUN") | 
-                          (team == "MCI" & opponents == "AVL"), 1, round),
-         kickoff_time = ifelse((team == "BUR" & opponents == "MUN") | 
-                                 (team == "MCI" & opponents == "AVL"), "2020-09-12T14:00:00z", kickoff_time))
+                          (team == "MCI" & opponents == "AVL"), 1, round))
+         # kickoff_time = ifelse((team == "BUR" & opponents == "MUN") | 
+         #                         (team == "MCI" & opponents == "AVL"), "2020-09-12T14:00:00z", kickoff_time))
          
 oldnames <- unique(sort(c(as.character(unique(matches$team)),
                           as.character(unique(matches$opponents)))))
