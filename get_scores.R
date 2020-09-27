@@ -10,8 +10,9 @@ scores_prev <- read.csv2("scores_20-21.csv", stringsAsFactors = FALSE)
 matches <- get_game_list() %>%
   #filter(finished == TRUE) %>%
   select(team = home, opponents = away, round = GW, kickoff_time = kickoff, team_h_score, team_a_score) %>%
-  filter(!is.na(round))
-
+  mutate(round = ifelse((team == "BUR" & opponents == "MUN") | 
+                          (team == "MCI" & opponents == "AVL"), 1, round))
+         
 oldnames <- unique(sort(c(as.character(unique(matches$team)),
                           as.character(unique(matches$opponents)))))
 newnames <- c("Arsenal", "Aston Villa", "Brighton", "Burnley",
