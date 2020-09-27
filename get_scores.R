@@ -11,9 +11,9 @@ matches <- get_game_list() %>%
   #filter(finished == TRUE) %>%
   select(team = home, opponents = away, round = GW, kickoff_time = kickoff, team_h_score, team_a_score) %>%
   mutate(round = ifelse((team == "BUR" & opponents == "MUN") | 
-                          (team == "MCI" & opponents == "AVL"), 1, round))
-         # kickoff_time = ifelse((team == "BUR" & opponents == "MUN") | 
-         #                         (team == "MCI" & opponents == "AVL"), "2020-09-12T14:00:00z", kickoff_time))
+                          (team == "MCI" & opponents == "AVL"), 1, round),
+         team_h_score = ifelse(is.na(team_h_score), "-", team_h_score),
+         team_a_score = ifelse(is.na(team_a_score), "-", team_a_score))
          
 oldnames <- unique(sort(c(as.character(unique(matches$team)),
                           as.character(unique(matches$opponents)))))
@@ -25,9 +25,9 @@ newnames <- c("Arsenal", "Aston Villa", "Brighton", "Burnley",
 matches <- matches %>%
   mutate(team = mapvalues(team, oldnames, newnames),
          opponents = mapvalues(opponents, oldnames, newnames),
-         round = as.integer(round),
-         team_h_score = as.integer(team_h_score),
-         team_a_score = as.integer(team_a_score))
+         round = as.integer(round)),
+         #team_h_score = as.integer(team_h_score),
+         #team_a_score = as.integer(team_a_score))
 
 write.csv2(matches, "scores_20-21.csv", row.names = FALSE)
 
