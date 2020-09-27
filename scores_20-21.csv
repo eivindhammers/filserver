@@ -1,0 +1,381 @@
+"team";"opponents";"round";"kickoff_time";"team_h_score";"team_a_score"
+"Burnley";"Man United";NA;NA;NA;NA
+"Man City";"Aston Villa";NA;NA;NA;NA
+"Fulham";"Arsenal";1;"2020-09-12T11:30:00Z";0;3
+"Crystal Palace";"Southampton";1;"2020-09-12T14:00:00Z";1;0
+"Liverpool";"Leeds";1;"2020-09-12T16:30:00Z";4;3
+"West Ham";"Newcastle";1;"2020-09-12T19:00:00Z";0;2
+"West Bromwich";"Leicester";1;"2020-09-13T13:00:00Z";0;3
+"Tottenham";"Everton";1;"2020-09-13T15:30:00Z";0;1
+"Sheffield Utd";"Wolves";1;"2020-09-14T17:00:00Z";0;2
+"Brighton";"Chelsea";1;"2020-09-14T19:15:00Z";1;3
+"Everton";"West Bromwich";2;"2020-09-19T11:30:00Z";5;2
+"Leeds";"Fulham";2;"2020-09-19T14:00:00Z";4;3
+"Man United";"Crystal Palace";2;"2020-09-19T16:30:00Z";1;3
+"Arsenal";"West Ham";2;"2020-09-19T19:00:00Z";2;1
+"Southampton";"Tottenham";2;"2020-09-20T11:00:00Z";2;5
+"Newcastle";"Brighton";2;"2020-09-20T13:00:00Z";0;3
+"Chelsea";"Liverpool";2;"2020-09-20T15:30:00Z";0;2
+"Leicester";"Burnley";2;"2020-09-20T18:00:00Z";4;2
+"Aston Villa";"Sheffield Utd";2;"2020-09-21T17:00:00Z";1;0
+"Wolves";"Man City";2;"2020-09-21T19:15:00Z";1;3
+"Brighton";"Man United";3;"2020-09-26T11:30:00Z";2;3
+"Crystal Palace";"Everton";3;"2020-09-26T14:00:00Z";1;2
+"West Bromwich";"Chelsea";3;"2020-09-26T16:30:00Z";3;3
+"Burnley";"Southampton";3;"2020-09-26T19:00:00Z";0;1
+"Sheffield Utd";"Leeds";3;"2020-09-27T11:00:00Z";NA;NA
+"Tottenham";"Newcastle";3;"2020-09-27T13:00:00Z";NA;NA
+"Man City";"Leicester";3;"2020-09-27T15:30:00Z";NA;NA
+"West Ham";"Wolves";3;"2020-09-27T18:00:00Z";NA;NA
+"Fulham";"Aston Villa";3;"2020-09-28T16:45:00Z";NA;NA
+"Liverpool";"Arsenal";3;"2020-09-28T19:00:00Z";NA;NA
+"Chelsea";"Crystal Palace";4;"2020-10-03T11:30:00Z";NA;NA
+"Everton";"Brighton";4;"2020-10-03T14:00:00Z";NA;NA
+"Leeds";"Man City";4;"2020-10-03T16:30:00Z";NA;NA
+"Newcastle";"Burnley";4;"2020-10-03T19:00:00Z";NA;NA
+"Leicester";"West Ham";4;"2020-10-04T11:00:00Z";NA;NA
+"Southampton";"West Bromwich";4;"2020-10-04T11:00:00Z";NA;NA
+"Arsenal";"Sheffield Utd";4;"2020-10-04T13:00:00Z";NA;NA
+"Wolves";"Fulham";4;"2020-10-04T13:00:00Z";NA;NA
+"Man United";"Tottenham";4;"2020-10-04T15:30:00Z";NA;NA
+"Aston Villa";"Liverpool";4;"2020-10-04T18:15:00Z";NA;NA
+"Chelsea";"Southampton";5;"2020-10-17T14:00:00Z";NA;NA
+"Crystal Palace";"Brighton";5;"2020-10-17T14:00:00Z";NA;NA
+"Everton";"Liverpool";5;"2020-10-17T14:00:00Z";NA;NA
+"Leeds";"Wolves";5;"2020-10-17T14:00:00Z";NA;NA
+"Leicester";"Aston Villa";5;"2020-10-17T14:00:00Z";NA;NA
+"Man City";"Arsenal";5;"2020-10-17T14:00:00Z";NA;NA
+"Newcastle";"Man United";5;"2020-10-17T14:00:00Z";NA;NA
+"Sheffield Utd";"Fulham";5;"2020-10-17T14:00:00Z";NA;NA
+"Tottenham";"West Ham";5;"2020-10-17T14:00:00Z";NA;NA
+"West Bromwich";"Burnley";5;"2020-10-17T14:00:00Z";NA;NA
+"Arsenal";"Leicester";6;"2020-10-24T14:00:00Z";NA;NA
+"Aston Villa";"Leeds";6;"2020-10-24T14:00:00Z";NA;NA
+"Brighton";"West Bromwich";6;"2020-10-24T14:00:00Z";NA;NA
+"Burnley";"Tottenham";6;"2020-10-24T14:00:00Z";NA;NA
+"Fulham";"Crystal Palace";6;"2020-10-24T14:00:00Z";NA;NA
+"Liverpool";"Sheffield Utd";6;"2020-10-24T14:00:00Z";NA;NA
+"Man United";"Chelsea";6;"2020-10-24T14:00:00Z";NA;NA
+"Southampton";"Everton";6;"2020-10-24T14:00:00Z";NA;NA
+"West Ham";"Man City";6;"2020-10-24T14:00:00Z";NA;NA
+"Wolves";"Newcastle";6;"2020-10-24T14:00:00Z";NA;NA
+"Aston Villa";"Southampton";7;"2020-10-31T15:00:00Z";NA;NA
+"Burnley";"Chelsea";7;"2020-10-31T15:00:00Z";NA;NA
+"Fulham";"West Bromwich";7;"2020-10-31T15:00:00Z";NA;NA
+"Leeds";"Leicester";7;"2020-10-31T15:00:00Z";NA;NA
+"Liverpool";"West Ham";7;"2020-10-31T15:00:00Z";NA;NA
+"Man United";"Arsenal";7;"2020-10-31T15:00:00Z";NA;NA
+"Newcastle";"Everton";7;"2020-10-31T15:00:00Z";NA;NA
+"Sheffield Utd";"Man City";7;"2020-10-31T15:00:00Z";NA;NA
+"Tottenham";"Brighton";7;"2020-10-31T15:00:00Z";NA;NA
+"Wolves";"Crystal Palace";7;"2020-10-31T15:00:00Z";NA;NA
+"Arsenal";"Aston Villa";8;"2020-11-07T15:00:00Z";NA;NA
+"Brighton";"Burnley";8;"2020-11-07T15:00:00Z";NA;NA
+"Chelsea";"Sheffield Utd";8;"2020-11-07T15:00:00Z";NA;NA
+"Crystal Palace";"Leeds";8;"2020-11-07T15:00:00Z";NA;NA
+"Everton";"Man United";8;"2020-11-07T15:00:00Z";NA;NA
+"Leicester";"Wolves";8;"2020-11-07T15:00:00Z";NA;NA
+"Man City";"Liverpool";8;"2020-11-07T15:00:00Z";NA;NA
+"Southampton";"Newcastle";8;"2020-11-07T15:00:00Z";NA;NA
+"West Bromwich";"Tottenham";8;"2020-11-07T15:00:00Z";NA;NA
+"West Ham";"Fulham";8;"2020-11-07T15:00:00Z";NA;NA
+"Aston Villa";"Brighton";9;"2020-11-21T15:00:00Z";NA;NA
+"Burnley";"Crystal Palace";9;"2020-11-21T15:00:00Z";NA;NA
+"Fulham";"Everton";9;"2020-11-21T15:00:00Z";NA;NA
+"Leeds";"Arsenal";9;"2020-11-21T15:00:00Z";NA;NA
+"Liverpool";"Leicester";9;"2020-11-21T15:00:00Z";NA;NA
+"Man United";"West Bromwich";9;"2020-11-21T15:00:00Z";NA;NA
+"Newcastle";"Chelsea";9;"2020-11-21T15:00:00Z";NA;NA
+"Sheffield Utd";"West Ham";9;"2020-11-21T15:00:00Z";NA;NA
+"Tottenham";"Man City";9;"2020-11-21T15:00:00Z";NA;NA
+"Wolves";"Southampton";9;"2020-11-21T15:00:00Z";NA;NA
+"Arsenal";"Wolves";10;"2020-11-28T15:00:00Z";NA;NA
+"Brighton";"Liverpool";10;"2020-11-28T15:00:00Z";NA;NA
+"Chelsea";"Tottenham";10;"2020-11-28T15:00:00Z";NA;NA
+"Crystal Palace";"Newcastle";10;"2020-11-28T15:00:00Z";NA;NA
+"Everton";"Leeds";10;"2020-11-28T15:00:00Z";NA;NA
+"Leicester";"Fulham";10;"2020-11-28T15:00:00Z";NA;NA
+"Man City";"Burnley";10;"2020-11-28T15:00:00Z";NA;NA
+"Southampton";"Man United";10;"2020-11-28T15:00:00Z";NA;NA
+"West Bromwich";"Sheffield Utd";10;"2020-11-28T15:00:00Z";NA;NA
+"West Ham";"Aston Villa";10;"2020-11-28T15:00:00Z";NA;NA
+"Aston Villa";"Newcastle";11;"2020-12-05T15:00:00Z";NA;NA
+"Brighton";"Southampton";11;"2020-12-05T15:00:00Z";NA;NA
+"Burnley";"Everton";11;"2020-12-05T15:00:00Z";NA;NA
+"Chelsea";"Leeds";11;"2020-12-05T15:00:00Z";NA;NA
+"Liverpool";"Wolves";11;"2020-12-05T15:00:00Z";NA;NA
+"Man City";"Fulham";11;"2020-12-05T15:00:00Z";NA;NA
+"Sheffield Utd";"Leicester";11;"2020-12-05T15:00:00Z";NA;NA
+"Tottenham";"Arsenal";11;"2020-12-05T15:00:00Z";NA;NA
+"West Bromwich";"Crystal Palace";11;"2020-12-05T15:00:00Z";NA;NA
+"West Ham";"Man United";11;"2020-12-05T15:00:00Z";NA;NA
+"Crystal Palace";"Tottenham";12;"2020-12-12T15:00:00Z";NA;NA
+"Everton";"Chelsea";12;"2020-12-12T15:00:00Z";NA;NA
+"Fulham";"Liverpool";12;"2020-12-12T15:00:00Z";NA;NA
+"Leeds";"West Ham";12;"2020-12-12T15:00:00Z";NA;NA
+"Man United";"Man City";12;"2020-12-12T15:00:00Z";NA;NA
+"Newcastle";"West Bromwich";12;"2020-12-12T15:00:00Z";NA;NA
+"Southampton";"Sheffield Utd";12;"2020-12-12T15:00:00Z";NA;NA
+"Wolves";"Aston Villa";12;"2020-12-12T15:00:00Z";NA;NA
+"Arsenal";"Burnley";12;"2020-12-13T15:00:00Z";NA;NA
+"Leicester";"Brighton";12;"2020-12-13T15:00:00Z";NA;NA
+"Arsenal";"Southampton";13;"2020-12-15T19:45:00Z";NA;NA
+"Aston Villa";"Burnley";13;"2020-12-15T19:45:00Z";NA;NA
+"Fulham";"Brighton";13;"2020-12-15T19:45:00Z";NA;NA
+"Leeds";"Newcastle";13;"2020-12-15T19:45:00Z";NA;NA
+"Leicester";"Everton";13;"2020-12-15T19:45:00Z";NA;NA
+"Sheffield Utd";"Man United";13;"2020-12-15T19:45:00Z";NA;NA
+"West Ham";"Crystal Palace";13;"2020-12-15T19:45:00Z";NA;NA
+"Wolves";"Chelsea";13;"2020-12-15T19:45:00Z";NA;NA
+"Liverpool";"Tottenham";13;"2020-12-16T20:00:00Z";NA;NA
+"Man City";"West Bromwich";13;"2020-12-16T20:00:00Z";NA;NA
+"Brighton";"Sheffield Utd";14;"2020-12-19T15:00:00Z";NA;NA
+"Burnley";"Wolves";14;"2020-12-19T15:00:00Z";NA;NA
+"Chelsea";"West Ham";14;"2020-12-19T15:00:00Z";NA;NA
+"Crystal Palace";"Liverpool";14;"2020-12-19T15:00:00Z";NA;NA
+"Everton";"Arsenal";14;"2020-12-19T15:00:00Z";NA;NA
+"Man United";"Leeds";14;"2020-12-19T15:00:00Z";NA;NA
+"Newcastle";"Fulham";14;"2020-12-19T15:00:00Z";NA;NA
+"Southampton";"Man City";14;"2020-12-19T15:00:00Z";NA;NA
+"Tottenham";"Leicester";14;"2020-12-19T15:00:00Z";NA;NA
+"West Bromwich";"Aston Villa";14;"2020-12-19T15:00:00Z";NA;NA
+"Arsenal";"Chelsea";15;"2020-12-26T15:00:00Z";NA;NA
+"Aston Villa";"Crystal Palace";15;"2020-12-26T15:00:00Z";NA;NA
+"Fulham";"Southampton";15;"2020-12-26T15:00:00Z";NA;NA
+"Leeds";"Burnley";15;"2020-12-26T15:00:00Z";NA;NA
+"Leicester";"Man United";15;"2020-12-26T15:00:00Z";NA;NA
+"Liverpool";"West Bromwich";15;"2020-12-26T15:00:00Z";NA;NA
+"Man City";"Newcastle";15;"2020-12-26T15:00:00Z";NA;NA
+"Sheffield Utd";"Everton";15;"2020-12-26T15:00:00Z";NA;NA
+"West Ham";"Brighton";15;"2020-12-26T15:00:00Z";NA;NA
+"Wolves";"Tottenham";15;"2020-12-26T15:00:00Z";NA;NA
+"Brighton";"Arsenal";16;"2020-12-28T15:00:00Z";NA;NA
+"Burnley";"Sheffield Utd";16;"2020-12-28T15:00:00Z";NA;NA
+"Chelsea";"Aston Villa";16;"2020-12-28T15:00:00Z";NA;NA
+"Crystal Palace";"Leicester";16;"2020-12-28T15:00:00Z";NA;NA
+"Everton";"Man City";16;"2020-12-28T15:00:00Z";NA;NA
+"Man United";"Wolves";16;"2020-12-28T15:00:00Z";NA;NA
+"Newcastle";"Liverpool";16;"2020-12-28T15:00:00Z";NA;NA
+"Southampton";"West Ham";16;"2020-12-28T15:00:00Z";NA;NA
+"Tottenham";"Fulham";16;"2020-12-28T15:00:00Z";NA;NA
+"West Bromwich";"Leeds";16;"2020-12-28T15:00:00Z";NA;NA
+"Brighton";"Wolves";17;"2021-01-02T15:00:00Z";NA;NA
+"Burnley";"Fulham";17;"2021-01-02T15:00:00Z";NA;NA
+"Chelsea";"Man City";17;"2021-01-02T15:00:00Z";NA;NA
+"Crystal Palace";"Sheffield Utd";17;"2021-01-02T15:00:00Z";NA;NA
+"Everton";"West Ham";17;"2021-01-02T15:00:00Z";NA;NA
+"Man United";"Aston Villa";17;"2021-01-02T15:00:00Z";NA;NA
+"Newcastle";"Leicester";17;"2021-01-02T15:00:00Z";NA;NA
+"Southampton";"Liverpool";17;"2021-01-02T15:00:00Z";NA;NA
+"Tottenham";"Leeds";17;"2021-01-02T15:00:00Z";NA;NA
+"West Bromwich";"Arsenal";17;"2021-01-02T15:00:00Z";NA;NA
+"Arsenal";"Crystal Palace";18;"2021-01-12T19:45:00Z";NA;NA
+"Aston Villa";"Tottenham";18;"2021-01-12T19:45:00Z";NA;NA
+"Fulham";"Man United";18;"2021-01-12T19:45:00Z";NA;NA
+"Leeds";"Southampton";18;"2021-01-12T19:45:00Z";NA;NA
+"Leicester";"Chelsea";18;"2021-01-12T19:45:00Z";NA;NA
+"Sheffield Utd";"Newcastle";18;"2021-01-12T19:45:00Z";NA;NA
+"West Ham";"West Bromwich";18;"2021-01-12T19:45:00Z";NA;NA
+"Wolves";"Everton";18;"2021-01-12T19:45:00Z";NA;NA
+"Liverpool";"Burnley";18;"2021-01-13T20:00:00Z";NA;NA
+"Man City";"Brighton";18;"2021-01-13T20:00:00Z";NA;NA
+"Arsenal";"Newcastle";19;"2021-01-16T15:00:00Z";NA;NA
+"Aston Villa";"Everton";19;"2021-01-16T15:00:00Z";NA;NA
+"Fulham";"Chelsea";19;"2021-01-16T15:00:00Z";NA;NA
+"Leeds";"Brighton";19;"2021-01-16T15:00:00Z";NA;NA
+"Leicester";"Southampton";19;"2021-01-16T15:00:00Z";NA;NA
+"Liverpool";"Man United";19;"2021-01-16T15:00:00Z";NA;NA
+"Man City";"Crystal Palace";19;"2021-01-16T15:00:00Z";NA;NA
+"Sheffield Utd";"Tottenham";19;"2021-01-16T15:00:00Z";NA;NA
+"West Ham";"Burnley";19;"2021-01-16T15:00:00Z";NA;NA
+"Wolves";"West Bromwich";19;"2021-01-16T15:00:00Z";NA;NA
+"Brighton";"Fulham";20;"2021-01-26T19:45:00Z";NA;NA
+"Burnley";"Aston Villa";20;"2021-01-26T19:45:00Z";NA;NA
+"Everton";"Leicester";20;"2021-01-26T19:45:00Z";NA;NA
+"Man United";"Sheffield Utd";20;"2021-01-26T20:00:00Z";NA;NA
+"West Bromwich";"Man City";20;"2021-01-26T20:00:00Z";NA;NA
+"Chelsea";"Wolves";20;"2021-01-27T19:45:00Z";NA;NA
+"Newcastle";"Leeds";20;"2021-01-27T19:45:00Z";NA;NA
+"Southampton";"Arsenal";20;"2021-01-27T19:45:00Z";NA;NA
+"Tottenham";"Liverpool";20;"2021-01-27T19:45:00Z";NA;NA
+"Crystal Palace";"West Ham";20;"2021-01-27T20:00:00Z";NA;NA
+"Arsenal";"Man United";21;"2021-01-30T15:00:00Z";NA;NA
+"Brighton";"Tottenham";21;"2021-01-30T15:00:00Z";NA;NA
+"Chelsea";"Burnley";21;"2021-01-30T15:00:00Z";NA;NA
+"Crystal Palace";"Wolves";21;"2021-01-30T15:00:00Z";NA;NA
+"Everton";"Newcastle";21;"2021-01-30T15:00:00Z";NA;NA
+"Leicester";"Leeds";21;"2021-01-30T15:00:00Z";NA;NA
+"Man City";"Sheffield Utd";21;"2021-01-30T15:00:00Z";NA;NA
+"Southampton";"Aston Villa";21;"2021-01-30T15:00:00Z";NA;NA
+"West Bromwich";"Fulham";21;"2021-01-30T15:00:00Z";NA;NA
+"West Ham";"Liverpool";21;"2021-01-30T15:00:00Z";NA;NA
+"Aston Villa";"West Ham";22;"2021-02-02T19:45:00Z";NA;NA
+"Burnley";"Man City";22;"2021-02-02T19:45:00Z";NA;NA
+"Fulham";"Leicester";22;"2021-02-02T19:45:00Z";NA;NA
+"Leeds";"Everton";22;"2021-02-02T19:45:00Z";NA;NA
+"Sheffield Utd";"West Bromwich";22;"2021-02-02T19:45:00Z";NA;NA
+"Wolves";"Arsenal";22;"2021-02-02T19:45:00Z";NA;NA
+"Man United";"Southampton";22;"2021-02-02T20:00:00Z";NA;NA
+"Newcastle";"Crystal Palace";22;"2021-02-03T19:45:00Z";NA;NA
+"Tottenham";"Chelsea";22;"2021-02-03T19:45:00Z";NA;NA
+"Liverpool";"Brighton";22;"2021-02-03T20:00:00Z";NA;NA
+"Aston Villa";"Arsenal";23;"2021-02-06T15:00:00Z";NA;NA
+"Burnley";"Brighton";23;"2021-02-06T15:00:00Z";NA;NA
+"Fulham";"West Ham";23;"2021-02-06T15:00:00Z";NA;NA
+"Leeds";"Crystal Palace";23;"2021-02-06T15:00:00Z";NA;NA
+"Liverpool";"Man City";23;"2021-02-06T15:00:00Z";NA;NA
+"Man United";"Everton";23;"2021-02-06T15:00:00Z";NA;NA
+"Newcastle";"Southampton";23;"2021-02-06T15:00:00Z";NA;NA
+"Sheffield Utd";"Chelsea";23;"2021-02-06T15:00:00Z";NA;NA
+"Tottenham";"West Bromwich";23;"2021-02-06T15:00:00Z";NA;NA
+"Wolves";"Leicester";23;"2021-02-06T15:00:00Z";NA;NA
+"Arsenal";"Leeds";24;"2021-02-13T15:00:00Z";NA;NA
+"Brighton";"Aston Villa";24;"2021-02-13T15:00:00Z";NA;NA
+"Chelsea";"Newcastle";24;"2021-02-13T15:00:00Z";NA;NA
+"Crystal Palace";"Burnley";24;"2021-02-13T15:00:00Z";NA;NA
+"Everton";"Fulham";24;"2021-02-13T15:00:00Z";NA;NA
+"Leicester";"Liverpool";24;"2021-02-13T15:00:00Z";NA;NA
+"Man City";"Tottenham";24;"2021-02-13T15:00:00Z";NA;NA
+"Southampton";"Wolves";24;"2021-02-13T15:00:00Z";NA;NA
+"West Bromwich";"Man United";24;"2021-02-13T15:00:00Z";NA;NA
+"West Ham";"Sheffield Utd";24;"2021-02-13T15:00:00Z";NA;NA
+"Arsenal";"Man City";25;"2021-02-20T15:00:00Z";NA;NA
+"Aston Villa";"Leicester";25;"2021-02-20T15:00:00Z";NA;NA
+"Brighton";"Crystal Palace";25;"2021-02-20T15:00:00Z";NA;NA
+"Burnley";"West Bromwich";25;"2021-02-20T15:00:00Z";NA;NA
+"Fulham";"Sheffield Utd";25;"2021-02-20T15:00:00Z";NA;NA
+"Liverpool";"Everton";25;"2021-02-20T15:00:00Z";NA;NA
+"Man United";"Newcastle";25;"2021-02-20T15:00:00Z";NA;NA
+"Southampton";"Chelsea";25;"2021-02-20T15:00:00Z";NA;NA
+"West Ham";"Tottenham";25;"2021-02-20T15:00:00Z";NA;NA
+"Wolves";"Leeds";25;"2021-02-20T15:00:00Z";NA;NA
+"Chelsea";"Man United";26;"2021-02-27T15:00:00Z";NA;NA
+"Crystal Palace";"Fulham";26;"2021-02-27T15:00:00Z";NA;NA
+"Everton";"Southampton";26;"2021-02-27T15:00:00Z";NA;NA
+"Leeds";"Aston Villa";26;"2021-02-27T15:00:00Z";NA;NA
+"Leicester";"Arsenal";26;"2021-02-27T15:00:00Z";NA;NA
+"Man City";"West Ham";26;"2021-02-27T15:00:00Z";NA;NA
+"Newcastle";"Wolves";26;"2021-02-27T15:00:00Z";NA;NA
+"Sheffield Utd";"Liverpool";26;"2021-02-27T15:00:00Z";NA;NA
+"Tottenham";"Burnley";26;"2021-02-27T15:00:00Z";NA;NA
+"West Bromwich";"Brighton";26;"2021-02-27T15:00:00Z";NA;NA
+"Aston Villa";"Wolves";27;"2021-03-06T15:00:00Z";NA;NA
+"Brighton";"Leicester";27;"2021-03-06T15:00:00Z";NA;NA
+"Burnley";"Arsenal";27;"2021-03-06T15:00:00Z";NA;NA
+"Chelsea";"Everton";27;"2021-03-06T15:00:00Z";NA;NA
+"Liverpool";"Fulham";27;"2021-03-06T15:00:00Z";NA;NA
+"Man City";"Man United";27;"2021-03-06T15:00:00Z";NA;NA
+"Sheffield Utd";"Southampton";27;"2021-03-06T15:00:00Z";NA;NA
+"Tottenham";"Crystal Palace";27;"2021-03-06T15:00:00Z";NA;NA
+"West Bromwich";"Newcastle";27;"2021-03-06T15:00:00Z";NA;NA
+"West Ham";"Leeds";27;"2021-03-06T15:00:00Z";NA;NA
+"Arsenal";"Tottenham";28;"2021-03-13T15:00:00Z";NA;NA
+"Crystal Palace";"West Bromwich";28;"2021-03-13T15:00:00Z";NA;NA
+"Everton";"Burnley";28;"2021-03-13T15:00:00Z";NA;NA
+"Fulham";"Man City";28;"2021-03-13T15:00:00Z";NA;NA
+"Leeds";"Chelsea";28;"2021-03-13T15:00:00Z";NA;NA
+"Leicester";"Sheffield Utd";28;"2021-03-13T15:00:00Z";NA;NA
+"Man United";"West Ham";28;"2021-03-13T15:00:00Z";NA;NA
+"Newcastle";"Aston Villa";28;"2021-03-13T15:00:00Z";NA;NA
+"Southampton";"Brighton";28;"2021-03-13T15:00:00Z";NA;NA
+"Wolves";"Liverpool";28;"2021-03-13T15:00:00Z";NA;NA
+"Brighton";"Newcastle";29;"2021-03-20T15:00:00Z";NA;NA
+"Burnley";"Leicester";29;"2021-03-20T15:00:00Z";NA;NA
+"Crystal Palace";"Man United";29;"2021-03-20T15:00:00Z";NA;NA
+"Fulham";"Leeds";29;"2021-03-20T15:00:00Z";NA;NA
+"Liverpool";"Chelsea";29;"2021-03-20T15:00:00Z";NA;NA
+"Man City";"Wolves";29;"2021-03-20T15:00:00Z";NA;NA
+"Sheffield Utd";"Aston Villa";29;"2021-03-20T15:00:00Z";NA;NA
+"Tottenham";"Southampton";29;"2021-03-20T15:00:00Z";NA;NA
+"West Bromwich";"Everton";29;"2021-03-20T15:00:00Z";NA;NA
+"West Ham";"Arsenal";29;"2021-03-20T15:00:00Z";NA;NA
+"Arsenal";"Liverpool";30;"2021-04-03T14:00:00Z";NA;NA
+"Aston Villa";"Fulham";30;"2021-04-03T14:00:00Z";NA;NA
+"Chelsea";"West Bromwich";30;"2021-04-03T14:00:00Z";NA;NA
+"Everton";"Crystal Palace";30;"2021-04-03T14:00:00Z";NA;NA
+"Leeds";"Sheffield Utd";30;"2021-04-03T14:00:00Z";NA;NA
+"Leicester";"Man City";30;"2021-04-03T14:00:00Z";NA;NA
+"Man United";"Brighton";30;"2021-04-03T14:00:00Z";NA;NA
+"Newcastle";"Tottenham";30;"2021-04-03T14:00:00Z";NA;NA
+"Southampton";"Burnley";30;"2021-04-03T14:00:00Z";NA;NA
+"Wolves";"West Ham";30;"2021-04-03T14:00:00Z";NA;NA
+"Brighton";"Everton";31;"2021-04-10T14:00:00Z";NA;NA
+"Burnley";"Newcastle";31;"2021-04-10T14:00:00Z";NA;NA
+"Crystal Palace";"Chelsea";31;"2021-04-10T14:00:00Z";NA;NA
+"Fulham";"Wolves";31;"2021-04-10T14:00:00Z";NA;NA
+"Liverpool";"Aston Villa";31;"2021-04-10T14:00:00Z";NA;NA
+"Man City";"Leeds";31;"2021-04-10T14:00:00Z";NA;NA
+"Sheffield Utd";"Arsenal";31;"2021-04-10T14:00:00Z";NA;NA
+"Tottenham";"Man United";31;"2021-04-10T14:00:00Z";NA;NA
+"West Bromwich";"Southampton";31;"2021-04-10T14:00:00Z";NA;NA
+"West Ham";"Leicester";31;"2021-04-10T14:00:00Z";NA;NA
+"Arsenal";"Fulham";32;"2021-04-17T14:00:00Z";NA;NA
+"Aston Villa";"Man City";32;"2021-04-17T14:00:00Z";NA;NA
+"Chelsea";"Brighton";32;"2021-04-17T14:00:00Z";NA;NA
+"Everton";"Tottenham";32;"2021-04-17T14:00:00Z";NA;NA
+"Leeds";"Liverpool";32;"2021-04-17T14:00:00Z";NA;NA
+"Leicester";"West Bromwich";32;"2021-04-17T14:00:00Z";NA;NA
+"Man United";"Burnley";32;"2021-04-17T14:00:00Z";NA;NA
+"Newcastle";"West Ham";32;"2021-04-17T14:00:00Z";NA;NA
+"Southampton";"Crystal Palace";32;"2021-04-17T14:00:00Z";NA;NA
+"Wolves";"Sheffield Utd";32;"2021-04-17T14:00:00Z";NA;NA
+"Arsenal";"Everton";33;"2021-04-24T14:00:00Z";NA;NA
+"Aston Villa";"West Bromwich";33;"2021-04-24T14:00:00Z";NA;NA
+"Fulham";"Tottenham";33;"2021-04-24T14:00:00Z";NA;NA
+"Leeds";"Man United";33;"2021-04-24T14:00:00Z";NA;NA
+"Leicester";"Crystal Palace";33;"2021-04-24T14:00:00Z";NA;NA
+"Liverpool";"Newcastle";33;"2021-04-24T14:00:00Z";NA;NA
+"Man City";"Southampton";33;"2021-04-24T14:00:00Z";NA;NA
+"Sheffield Utd";"Brighton";33;"2021-04-24T14:00:00Z";NA;NA
+"West Ham";"Chelsea";33;"2021-04-24T14:00:00Z";NA;NA
+"Wolves";"Burnley";33;"2021-04-24T14:00:00Z";NA;NA
+"Brighton";"Leeds";34;"2021-05-01T14:00:00Z";NA;NA
+"Burnley";"West Ham";34;"2021-05-01T14:00:00Z";NA;NA
+"Chelsea";"Fulham";34;"2021-05-01T14:00:00Z";NA;NA
+"Crystal Palace";"Man City";34;"2021-05-01T14:00:00Z";NA;NA
+"Everton";"Aston Villa";34;"2021-05-01T14:00:00Z";NA;NA
+"Man United";"Liverpool";34;"2021-05-01T14:00:00Z";NA;NA
+"Newcastle";"Arsenal";34;"2021-05-01T14:00:00Z";NA;NA
+"Southampton";"Leicester";34;"2021-05-01T14:00:00Z";NA;NA
+"Tottenham";"Sheffield Utd";34;"2021-05-01T14:00:00Z";NA;NA
+"West Bromwich";"Wolves";34;"2021-05-01T14:00:00Z";NA;NA
+"Arsenal";"West Bromwich";35;"2021-05-08T14:00:00Z";NA;NA
+"Aston Villa";"Man United";35;"2021-05-08T14:00:00Z";NA;NA
+"Fulham";"Burnley";35;"2021-05-08T14:00:00Z";NA;NA
+"Leeds";"Tottenham";35;"2021-05-08T14:00:00Z";NA;NA
+"Leicester";"Newcastle";35;"2021-05-08T14:00:00Z";NA;NA
+"Liverpool";"Southampton";35;"2021-05-08T14:00:00Z";NA;NA
+"Man City";"Chelsea";35;"2021-05-08T14:00:00Z";NA;NA
+"Sheffield Utd";"Crystal Palace";35;"2021-05-08T14:00:00Z";NA;NA
+"West Ham";"Everton";35;"2021-05-08T14:00:00Z";NA;NA
+"Wolves";"Brighton";35;"2021-05-08T14:00:00Z";NA;NA
+"Brighton";"West Ham";36;"2021-05-11T18:45:00Z";NA;NA
+"Burnley";"Leeds";36;"2021-05-11T18:45:00Z";NA;NA
+"Everton";"Sheffield Utd";36;"2021-05-11T18:45:00Z";NA;NA
+"Man United";"Leicester";36;"2021-05-11T19:00:00Z";NA;NA
+"West Bromwich";"Liverpool";36;"2021-05-11T19:00:00Z";NA;NA
+"Chelsea";"Arsenal";36;"2021-05-12T18:45:00Z";NA;NA
+"Newcastle";"Man City";36;"2021-05-12T18:45:00Z";NA;NA
+"Southampton";"Fulham";36;"2021-05-12T18:45:00Z";NA;NA
+"Tottenham";"Wolves";36;"2021-05-12T18:45:00Z";NA;NA
+"Crystal Palace";"Aston Villa";36;"2021-05-12T19:00:00Z";NA;NA
+"Brighton";"Man City";37;"2021-05-15T14:00:00Z";NA;NA
+"Burnley";"Liverpool";37;"2021-05-15T14:00:00Z";NA;NA
+"Chelsea";"Leicester";37;"2021-05-15T14:00:00Z";NA;NA
+"Crystal Palace";"Arsenal";37;"2021-05-15T14:00:00Z";NA;NA
+"Everton";"Wolves";37;"2021-05-15T14:00:00Z";NA;NA
+"Man United";"Fulham";37;"2021-05-15T14:00:00Z";NA;NA
+"Newcastle";"Sheffield Utd";37;"2021-05-15T14:00:00Z";NA;NA
+"Southampton";"Leeds";37;"2021-05-15T14:00:00Z";NA;NA
+"Tottenham";"Aston Villa";37;"2021-05-15T14:00:00Z";NA;NA
+"West Bromwich";"West Ham";37;"2021-05-15T14:00:00Z";NA;NA
+"Arsenal";"Brighton";38;"2021-05-23T15:00:00Z";NA;NA
+"Aston Villa";"Chelsea";38;"2021-05-23T15:00:00Z";NA;NA
+"Fulham";"Newcastle";38;"2021-05-23T15:00:00Z";NA;NA
+"Leeds";"West Bromwich";38;"2021-05-23T15:00:00Z";NA;NA
+"Leicester";"Tottenham";38;"2021-05-23T15:00:00Z";NA;NA
+"Liverpool";"Crystal Palace";38;"2021-05-23T15:00:00Z";NA;NA
+"Man City";"Everton";38;"2021-05-23T15:00:00Z";NA;NA
+"Sheffield Utd";"Burnley";38;"2021-05-23T15:00:00Z";NA;NA
+"West Ham";"Southampton";38;"2021-05-23T15:00:00Z";NA;NA
+"Wolves";"Man United";38;"2021-05-23T15:00:00Z";NA;NA
