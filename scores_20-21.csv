@@ -77,3 +77,7 @@
 "Leicester";"Wolves";8;"2020-11-08T14:00:00Z";1;0
 "Man City";"Liverpool";8;"2020-11-08T16:30:00Z";1;1
 "Arsenal";"Aston Villa";8;"2020-11-08T19:15:00Z";0;3
+"Newcastle";"Chelsea";9;"2020-11-21T12:30:00Z";0;2
+"Aston Villa";"Brighton";9;"2020-11-21T15:00:00Z";1;2
+"Tottenham";"Man City";9;"2020-11-21T17:30:00Z";2;0
+"Man United";"West Bromwich";9;"2020-11-21T20:00:00Z";1;0
