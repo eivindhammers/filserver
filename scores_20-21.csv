@@ -194,3 +194,9 @@
 "Everton";"Leicester";20;"2021-01-27T20:15:00Z";1;1
 "Man United";"Sheffield Utd";20;"2021-01-27T20:15:00Z";1;2
 "Tottenham";"Liverpool";20;"2021-01-28T20:00:00Z";1;3
+"Everton";"Newcastle";21;"2021-01-30T12:30:00Z";0;2
+"Crystal Palace";"Wolves";21;"2021-01-30T15:00:00Z";1;0
+"Man City";"Sheffield Utd";21;"2021-01-30T15:00:00Z";1;0
+"West Bromwich";"Fulham";21;"2021-01-30T15:00:00Z";2;2
+"Arsenal";"Man United";21;"2021-01-30T17:30:00Z";0;0
+"Southampton";"Aston Villa";21;"2021-01-30T20:00:00Z";0;1
