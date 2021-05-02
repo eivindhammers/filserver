@@ -328,3 +328,7 @@
 "Aston Villa";"West Bromwich";33;"2021-04-25T18:00:00Z";2;2
 "Leicester";"Crystal Palace";33;"2021-04-26T19:00:00Z";2;1
 "Southampton";"Leicester";34;"2021-04-30T19:00:00Z";1;1
+"Crystal Palace";"Man City";34;"2021-05-01T11:30:00Z";0;2
+"Brighton";"Leeds";34;"2021-05-01T14:00:00Z";2;0
+"Chelsea";"Fulham";34;"2021-05-01T16:30:00Z";2;0
+"Everton";"Aston Villa";34;"2021-05-01T19:00:00Z";1;2
