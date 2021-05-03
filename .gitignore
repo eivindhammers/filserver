@@ -4,3 +4,4 @@ create_creds.R
 api-key.R
 *.swp
 *.save
+.Rhistory
