@@ -1,0 +1,31 @@
+"team";"opponents";"round";"kickoff_time";"team_h_score";"team_a_score"
+"Brentford";"Arsenal";1;"2021-08-13T19:00:00Z";2;0
+"Man United";"Leeds";1;"2021-08-14T11:30:00Z";5;1
+"Burnley";"Brighton";1;"2021-08-14T14:00:00Z";1;2
+"Chelsea";"Crystal Palace";1;"2021-08-14T14:00:00Z";3;0
+"Everton";"Southampton";1;"2021-08-14T14:00:00Z";3;1
+"Leicester";"Wolves";1;"2021-08-14T14:00:00Z";1;0
+"Watford";"Aston Villa";1;"2021-08-14T14:00:00Z";3;2
+"Norwich";"Liverpool";1;"2021-08-14T16:30:00Z";0;3
+"Newcastle";"West Ham";1;"2021-08-15T13:00:00Z";2;4
+"Tottenham";"Man City";1;"2021-08-15T15:30:00Z";1;0
+"Liverpool";"Burnley";2;"2021-08-21T11:30:00Z";2;0
+"Aston Villa";"Newcastle";2;"2021-08-21T14:00:00Z";2;0
+"Crystal Palace";"Brentford";2;"2021-08-21T14:00:00Z";0;0
+"Leeds";"Everton";2;"2021-08-21T14:00:00Z";2;2
+"Man City";"Norwich";2;"2021-08-21T14:00:00Z";5;0
+"Brighton";"Watford";2;"2021-08-21T16:30:00Z";2;0
+"Southampton";"Man United";2;"2021-08-22T13:00:00Z";1;1
+"Wolves";"Tottenham";2;"2021-08-22T13:00:00Z";0;1
+"Arsenal";"Chelsea";2;"2021-08-22T15:30:00Z";0;2
+"West Ham";"Leicester";2;"2021-08-23T19:00:00Z";4;1
+"Man City";"Arsenal";3;"2021-08-28T11:30:00Z";5;0
+"Aston Villa";"Brentford";3;"2021-08-28T14:00:00Z";1;1
+"Brighton";"Everton";3;"2021-08-28T14:00:00Z";0;2
+"Newcastle";"Southampton";3;"2021-08-28T14:00:00Z";2;2
+"Norwich";"Leicester";3;"2021-08-28T14:00:00Z";1;2
+"West Ham";"Crystal Palace";3;"2021-08-28T14:00:00Z";2;2
+"Liverpool";"Chelsea";3;"2021-08-28T16:30:00Z";1;1
+"Burnley";"Leeds";3;"2021-08-29T13:00:00Z";1;1
+"Tottenham";"Watford";3;"2021-08-29T13:00:00Z";1;0
+"Wolves";"Man United";3;"2021-08-29T15:30:00Z";0;1
