@@ -49,3 +49,10 @@
 "Brighton";"Leicester";5;"2021-09-19T13:00:00Z";2;1
 "West Ham";"Man United";5;"2021-09-19T13:00:00Z";1;2
 "Tottenham";"Chelsea";5;"2021-09-19T15:30:00Z";0;3
+"Chelsea";"Man City";6;"2021-09-25T11:30:00Z";0;1
+"Man United";"Aston Villa";6;"2021-09-25T11:30:00Z";0;1
+"Everton";"Norwich";6;"2021-09-25T14:00:00Z";2;0
+"Leeds";"West Ham";6;"2021-09-25T14:00:00Z";1;2
+"Leicester";"Burnley";6;"2021-09-25T14:00:00Z";2;2
+"Watford";"Newcastle";6;"2021-09-25T14:00:00Z";1;1
+"Brentford";"Liverpool";6;"2021-09-25T16:30:00Z";3;3
