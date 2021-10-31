@@ -89,3 +89,10 @@
 "Brentford";"Leicester";9;"2021-10-24T13:00:00Z";1;2
 "West Ham";"Tottenham";9;"2021-10-24T13:00:00Z";1;0
 "Man United";"Liverpool";9;"2021-10-24T15:30:00Z";0;5
+"Leicester";"Arsenal";10;"2021-10-30T11:30:00Z";0;2
+"Burnley";"Brentford";10;"2021-10-30T14:00:00Z";3;1
+"Liverpool";"Brighton";10;"2021-10-30T14:00:00Z";2;2
+"Man City";"Crystal Palace";10;"2021-10-30T14:00:00Z";0;2
+"Newcastle";"Chelsea";10;"2021-10-30T14:00:00Z";0;3
+"Watford";"Southampton";10;"2021-10-30T14:00:00Z";0;1
+"Tottenham";"Man United";10;"2021-10-30T16:30:00Z";0;3
