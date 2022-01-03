@@ -2,11 +2,11 @@
 
 cd "$(dirname "$0")"
 
-git pull
+git pull --ff-only
 
 Rscript get_scores.R
 
-git add scores.csv
+git add scores_21-22.csv
 git commit -m "update scores"
 git push origin master
 
