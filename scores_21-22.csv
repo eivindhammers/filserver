@@ -214,3 +214,6 @@
 "Leicester";"Brighton";23;"2022-01-23T14:00:00Z";1;1
 "Chelsea";"Tottenham";23;"2022-01-23T16:30:00Z";2;0
 "Burnley";"Watford";23;"2022-02-05T18:00:00Z";0;0
+"Newcastle";"Everton";24;"2022-02-08T19:45:00Z";3;1
+"West Ham";"Watford";24;"2022-02-08T19:45:00Z";1;0
+"Burnley";"Man United";24;"2022-02-08T20:00:00Z";1;1
