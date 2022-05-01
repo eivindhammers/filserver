@@ -331,3 +331,9 @@
 "Liverpool";"Everton";34;"2022-04-24T15:30:00Z";2;0
 "Crystal Palace";"Leeds";34;"2022-04-25T19:00:00Z";0;0
 "Man United";"Chelsea";34;"2022-04-28T18:45:00Z";1;1
+"Newcastle";"Liverpool";35;"2022-04-30T11:30:00Z";0;1
+"Aston Villa";"Norwich";35;"2022-04-30T14:00:00Z";2;0
+"Southampton";"Crystal Palace";35;"2022-04-30T14:00:00Z";1;2
+"Watford";"Burnley";35;"2022-04-30T14:00:00Z";1;2
+"Wolves";"Brighton";35;"2022-04-30T14:00:00Z";0;3
+"Leeds";"Man City";35;"2022-04-30T16:30:00Z";0;4
